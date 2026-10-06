@@ -126,11 +126,11 @@
 
 ### 🚀 Featured Projects
 
-#### 🎪 [College Event Hub](https://github.com/Ashra-Ansari/YOUR-REPO-LINK)
+#### 🎪 [College Event Hub](https://github.com/Ashra-Ansari/college-event-hub)
 A full-stack campus event management platform with role-based admin dashboard, secure authentication, and event browsing by category.
 `Node.js` `Express.js` `MongoDB` `Passport.js` `Cloudinary`
 
-#### 🔗 [Connectify](https://github.com/Ashra-Ansari/YOUR-REPO-LINK)
+#### 🔗 [Connectify](https://github.com/Ashra-Ansari/Connectify)
 A professional networking platform enabling profiles, posts, connections, and real-time interactions with JWT authentication.
 `Next.js` `React.js` `Redux Toolkit` `Node.js` `MongoDB`
 
